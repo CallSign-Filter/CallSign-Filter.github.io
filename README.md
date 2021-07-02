@@ -1,2 +1,4 @@
-# CallSign-Filter.github.io
-Testing out GitHub Pages for hosting a website
+# CallSign-Filter.github.io -> FantasyFootballFamily.com
+This is now the website for FantasyFootballFamily.com
+
+This is a site to track all of our fantasy
